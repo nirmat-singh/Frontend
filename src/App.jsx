@@ -17,7 +17,7 @@ function App() {
 
   return (
     <ThemeProvider theme={theme} >
-      <Create/>
+      <Create />
     </ThemeProvider>
   )
 }
